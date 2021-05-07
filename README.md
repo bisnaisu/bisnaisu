@@ -1,5 +1,5 @@
 _________________
-<h3 align="center">Hey Hey! It seems that you've stumbled upon my GitHub profile!</h3>
+__<h3 align="center">Hey Hey! Welcome to my github profile!</h3>__
 <p align="justify">My name is Bisma, a System Information student at the University of Indonesia and an aspiring web developer. I primarily work on projects with commonly used web technologies (Node.js, MySQL, Vue, Nginx, Django) with some forays into other programming languages as part of my degree.</p>
 
 
