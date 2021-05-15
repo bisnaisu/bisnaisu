@@ -13,7 +13,7 @@ __<h3 align="center">Hey Hey! Welcome to my github profile!</h3>__
   - Email: khomeini.bisma@gmail.com or bisma.khomeini@ui.ac.id **(For academic purposes only)**
   - Instagram: @bisma.khomeini
   - Twitter: @bisma khomeini
-  - Discord: Bisma.k
+  - Discord: Bisma Khomeini
   
 
 <!--
