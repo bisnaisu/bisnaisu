@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Bisma Khomeini and I am a undergraduate student at [Universitas Indonesia](https://eecs.oregonstate.edu/) majoring in System Informayion. I am a full-stack software developer with three years of experience working as a Software Engineer at [eQ Technologic India Pvt. Ltd.](https://www.1eq.com/) My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+Hello, my name is Bisma Khomeini and I am a undergraduate student at [Universitas Indonesia](https://eecs.oregonstate.edu/) majoring in System Informayion. I am a full-stack software developer with three years of experience working as a Software Engineer at [eQ Technologic India Pvt. Ltd.](https://www.1eq.com/) My technology stack involves PHP/Laravel, Django, Express, Apache, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in sports :).
 
-- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
+- 🔭 I’m currently fullstack developer
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: rsjcoepit@gmail.com
-- 😄 Pronouns: Programmer/She/Her/Hers
+- 📫 How to reach me: khomeini.bisma@gmail.com
+- 😄 Pronouns: Prog-ramer
 - ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
-- 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
+- 📝 [Resume](bismakhomeini.vercel.app)
 
 **Languages and Tools:** 
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel%20Framework-black?logo=laravel&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
