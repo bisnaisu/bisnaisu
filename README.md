@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hello, my name is Bisma Khomeini and I am a undergraduate student at [Universitas Indonesia](https://eecs.oregonstate.edu/) majoring in System Information. I am a full-stack software developer with three years of experience working as a Software Engineer Intern at Startup Company. My technology stack involves PHP/Laravel, Django, Express, Apache, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in sports :).
 
 - 🔭 I’m currently fullstack developer
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
+- 💬 Brainstorm with me over tech, algorithms, career, and sport
 - 📫 How to reach me: khomeini.bisma@gmail.com
 - 😄 Pronouns: Prog-ramer
 - ⚡ Fun fact: Checkout my [Developer Club](https://www.linkedin.com/company/dsc-ui/about/) Community if you are ambitious!
