@@ -21,8 +21,8 @@ Hello, my name is Bisma Khomeini and I am a undergraduate student at [Universita
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: khomeini.bisma@gmail.com
 - 😄 Pronouns: Prog-ramer
-- ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
-- 📝 [Resume](bismakhomeini.vercel.app)
+- ⚡ Fun fact: Checkout my [Developer Club](https://www.linkedin.com/company/dsc-ui/about/) Community if you are ambitious!
+- 📝 [Resume]()
 
 **Languages and Tools:** 
 
@@ -39,7 +39,7 @@ Hello, my name is Bisma Khomeini and I am a undergraduate student at [Universita
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+![LATEX](https://img.shields.io/docker/cloud/automated/mbiskho/mbiskho?style=social)&nbsp;&nbsp;
 
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=mbiskho&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbiskho&hide=TeX&layout=compact)
