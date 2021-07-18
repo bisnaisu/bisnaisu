@@ -25,7 +25,7 @@ Hello, my name is Bisma Khomeini and I am a undergraduate student at [Universita
 - 📝 [Resume]()
 
 **Languages and Tools:** 
-
+![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel%20Framework-black?logo=laravel&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
