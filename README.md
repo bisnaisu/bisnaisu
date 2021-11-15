@@ -41,7 +41,7 @@ Hello, my name is Bisma Khomeini and I am a undergraduate student at [Universita
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/docker/cloud/automated/mbiskho/mbiskho?style=social)&nbsp;&nbsp;
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=mbiskho&count_private=true&show_icons=true&include_all_commits=true)
+![Bisma's Github Stats](https://github-readme-stats.vercel.app/api?username=mbiskho&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbiskho&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
