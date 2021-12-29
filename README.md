@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Bisma Khomeini and I am a undergraduate student at [Universitas Indonesia](https://eecs.oregonstate.edu/) majoring in System Information. I am a full-stack software developer with three years of experience. My technology stack involves PHP/Laravel, Django, Express, Apache, MySQL, postgresql, javascript, React.js,Next.Js,Vue.js,Svelte,Sapper and, HTML/CSS/Bootstrap/Tailwind/Material UI/Foundation Bulma. Besides programming, I have an immense interest in sports :).
+Hello, my name is Bisma Khomeini and I am a undergraduate student at [Universitas Indonesia](https://eecs.oregonstate.edu/) majoring in System Information. I am a Full-Stack Software Engineer with three years of experience. My technology stack involves PHP/Laravel, Django, Express, Apache, MySQL, postgresql, javascript, React.js,Next.Js,Vue.js,Svelte,Sapper and, HTML/CSS/Bootstrap/Tailwind/Material UI/Foundation Bulma. Besides programming, I have an immense interest in sports :).
 
 - 🔭 I’m currently Full-Stack Software Engineer
 - 💬 Brainstorm with me over tech, algorithms, career, sport, and financial
